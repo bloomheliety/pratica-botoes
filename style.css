@@ -1,0 +1,11 @@
+button{
+    background-color: rgb(26, 9, 9);
+    color: aliceblue;
+    padding: 10px;
+
+}
+@media (max-width:600px) {
+    button {
+        background-color: darkred;
+    }
+}
